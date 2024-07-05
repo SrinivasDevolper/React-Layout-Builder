@@ -1,0 +1,24 @@
+.control-bg {
+  background-color: #455464;
+  padding-left: 60px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.control-heading {
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+
+.control-ul {
+  list-style: none;
+}
+
+.input-list {
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.input-list label {
+  margin-left: 10px;
+}
